@@ -1,0 +1,24 @@
+{
+  "name": "vue-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "prettier": "^2.3.1",
+    "prettier-eslint": "^12.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hua86430/week5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hua86430/week5/issues"
+  },
+  "homepage": "https://github.com/hua86430/week5#readme"
+}
